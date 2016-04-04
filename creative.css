@@ -1,0 +1,220 @@
+body {
+	margin: 0;
+	padding: 0;
+	color: #8E8B8A;
+	font-family: Tahoma, Geneva, sans-serif;
+	line-height: 1.5em; 
+	background-color: #FFFFFF;
+}
+
+
+p { margin: 0 0 10px 0; padding: 0; }
+img { border: none; }
+
+h1, h2, h3, h4, h5, h6 { color: #000; font-weight: bolder}
+h1 { font-size: 34px; margin: 0 0 30px 0; padding: 5px 0; }
+h2 { font-size: 30px; margin: 0 0 20px 0; padding: 0;}
+h3 { font-size: 21px; margin: 0 0 15px; padding: 0; }
+h4 { font-size: 18px; margin: 0 0 15px; padding: 0; }
+h5 { font-size: 16px; margin: 0 0 10px; padding: 0; }
+h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
+
+ul {
+    list-style-type: none;
+    margin-top: -40px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #fff;
+    margin-left: 700px;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #000;
+    text-align: center;
+    padding: 0px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #000;
+}
+
+#logo{
+    margin-left: 130px;
+    margin-top: 30px;
+    
+}
+
+#mainimg{
+    background-image: ("images/backimg.jpg"); 
+}
+
+#postword {
+    background-image: ("images/backimg.jpg"); 
+    text-align: center;
+    margin-top: -300px;
+}
+
+#content1 {
+    margin-top: 180px;
+}
+#con1{
+    text-align: center;   
+}
+
+#side1 {
+    text-align: center;
+    margin-left: -800px;
+    margin-top: 100px;
+}
+
+#side2 {
+    text-align: center;
+    margin-top: -120px;
+}
+
+#side3 {
+    text-align: center;
+    margin-left: 800px;
+    margin-top: -120px;
+}
+
+#content2 {
+    background-image: ("images/side.jpg");
+    margin-top: 70px;
+}
+#postword2 {
+    text-align: left;
+    margin-top: -400px;
+    margin-left: 600px;
+}
+
+#postword3 {
+    text-align: left;
+    margin-left: 600px;
+    margin-top: 30px;
+}
+
+#learnmore {
+    margin-left: 600px;
+    margin-top: 30px;
+}
+
+#latest {
+    text-align: center;
+    margin-top: 150px;
+}
+
+#side4 {
+    margin-left: 200px;
+}
+
+#side5 {
+    margin-left: 250px;
+    margin-top: 40px;
+}
+
+#side6 {
+    margin-left: 250px;
+    margin-top: 40px;
+}
+
+#side7 {
+    margin-left: 250px;
+    margin-top: 40px;
+}
+
+#side8 {
+    margin-left: 200px;
+    margin-top: 40px;
+}
+
+#content4 {
+    background-color: #F2F2F2;
+    margin-top: 100px;
+}
+
+#culture {
+    text-align: center;
+    margin-top: 100px;
+    padding: 90px;
+}
+
+#side9 {
+    margin-left: -800px;
+    text-align: center;
+}
+
+#side10 {
+    text-align: center;
+    margin-top: -120px;
+}
+
+#side11 {
+    margin-left: 800px;
+    text-align: center;
+    margin-top: -205px;
+    padding: 90px
+}
+
+#awesome {
+    text-align: center;
+    padding: 50px;
+}
+
+#jamie {
+    background-color: #F2F2F2;
+    text-align: left;
+    margin-left: 550px;
+    padding: 25px;
+    margin-right: 330px;
+}
+
+#kim {
+    background-color: #F2F2F2;
+    text-align: left;
+    margin-left: 400px;
+    padding: 25px;
+    margin-right: 480px;
+    margin-top: 70px;
+}
+
+#content6 {
+    background-color: #66C266;
+    text-align: center;
+    padding: 50px;
+    margin-top: 100px;
+}
+
+#logos{
+    padding: 50px;
+}
+
+#content7 {
+    background-color: #0d0d0d;   
+}
+
+#side12 {
+    margin-left: 100px;
+    padding: 50px;
+}
+
+#side13 {
+    margin-left: 500px;
+    margin-top: -230px;
+}
+
+#side14 {
+    margin-left: 950px;
+    margin-top: -240px;
+    padding: 40px;
+}
+#footer {
+    text-align: center;
+    padding: 20px;
+}
