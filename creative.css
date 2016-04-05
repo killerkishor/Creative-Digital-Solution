@@ -1,23 +1,61 @@
 body {
-	margin: 0;
-	padding: 0;
-	color: #8E8B8A;
-	font-family: Tahoma, Geneva, sans-serif;
-	line-height: 1.5em; 
-	background-color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+    color: #8E8B8A;
+    font-family: Tahoma, Geneva, sans-serif;
+    line-height: 1.5em;
+    background-color: #FFFFFF;
 }
 
+p {
+    margin: 0 0 10px 0;
+    padding: 0;
+}
 
-p { margin: 0 0 10px 0; padding: 0; }
-img { border: none; }
+img {
+    border: none;
+}
 
-h1, h2, h3, h4, h5, h6 { color: #000; font-weight: bolder}
-h1 { font-size: 34px; margin: 0 0 30px 0; padding: 5px 0; }
-h2 { font-size: 30px; margin: 0 0 20px 0; padding: 0;}
-h3 { font-size: 21px; margin: 0 0 15px; padding: 0; }
-h4 { font-size: 18px; margin: 0 0 15px; padding: 0; }
-h5 { font-size: 16px; margin: 0 0 10px; padding: 0; }
-h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
+h1, h2, h3, h4, h5, h6 {
+    color: #000;
+    font-weight: bolder
+}
+
+h1 {
+    font-size: 34px;
+    margin: 0 0 30px 0;
+    padding: 5px 0;
+}
+
+h2 {
+    font-size: 30px;
+    margin: 0 0 20px 0;
+    padding: 0;
+}
+
+h3 {
+    font-size: 21px;
+    margin: 0 0 15px;
+    padding: 0;
+}
+
+h4 {
+    font-size: 18px;
+    margin: 0 0 15px;
+    padding: 0;
+}
+
+h5 {
+    font-size: 16px;
+    margin: 0 0 10px;
+    padding: 0;
+}
+
+h6 {
+    font-size: 14px;
+    margin: 0 0 5px;
+    padding: 0;
+}
 
 ul {
     list-style-type: none;
@@ -44,18 +82,18 @@ li a:hover {
     background-color: #000;
 }
 
-#logo{
+#logo {
     margin-left: 130px;
     margin-top: 30px;
-    
+
 }
 
-#mainimg{
-    background-image: ("images/backimg.jpg"); 
+#mainimg {
+    background-image: ("images/backimg.jpg");
 }
 
 #postword {
-    background-image: ("images/backimg.jpg"); 
+    background-image: ("images/backimg.jpg");
     text-align: center;
     margin-top: -300px;
 }
@@ -63,8 +101,9 @@ li a:hover {
 #content1 {
     margin-top: 180px;
 }
-#con1{
-    text-align: center;   
+
+#con1 {
+    text-align: center;
 }
 
 #side1 {
@@ -88,6 +127,7 @@ li a:hover {
     background-image: ("images/side.jpg");
     margin-top: 70px;
 }
+
 #postword2 {
     text-align: left;
     margin-top: -400px;
@@ -191,12 +231,12 @@ li a:hover {
     margin-top: 100px;
 }
 
-#logos{
+#logos {
     padding: 50px;
 }
 
 #content7 {
-    background-color: #0d0d0d;   
+    background-color: #0d0d0d;
 }
 
 #side12 {
@@ -214,6 +254,7 @@ li a:hover {
     margin-top: -240px;
     padding: 40px;
 }
+
 #footer {
     text-align: center;
     padding: 20px;
